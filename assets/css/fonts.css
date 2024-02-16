@@ -1,0 +1,17 @@
+@font-face{
+    font-family: "nunito-bold";
+    src: url("../fonts/Nunito/Nunito-ExtraBold.ttf");
+}
+@font-face{
+    font-family: "nunito-regular";
+    src: url("../fonts/Nunito/Nunito-Regular.ttf");
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.btn-default p{
+    font-family: "nunito-bold";
+}
